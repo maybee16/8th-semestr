@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Data protection\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Data protection\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\HP\Desktop\Data protection\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\HP\Desktop\Data protection\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Data protection\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Data protection\lab1\bin\Debug\lab1.exe.config
+C:\Users\HP\Desktop\Data protection\lab1\bin\Debug\lab1.exe
+C:\Users\HP\Desktop\Data protection\lab1\bin\Debug\lab1.pdb
+C:\Users\HP\Desktop\Data protection\lab1\obj\Debug\lab1.exe
+C:\Users\HP\Desktop\Data protection\lab1\obj\Debug\lab1.pdb
