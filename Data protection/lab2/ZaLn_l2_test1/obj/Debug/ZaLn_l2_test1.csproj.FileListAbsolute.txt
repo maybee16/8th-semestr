@@ -1,0 +1,31 @@
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.exe.config
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.exe
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.pdb
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.Form1.resources
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.Properties.Resources.resources
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.exe
+C:\Users\Admin\source\repos\ZaLn_l2_test1\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.pdb
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.exe.config
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.exe
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.pdb
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.Form1.resources
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.Properties.Resources.resources
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.exe
+C:\Users\Admin\source\repos\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.pdb
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.exe.config
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.exe
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\bin\Debug\ZaLn_l2_test1.pdb
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.AssemblyReference.cache
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.Form1.resources
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.Properties.Resources.resources
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.GenerateResource.cache
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.csproj.CoreCompileInputs.cache
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.exe
+C:\Users\maya1\Downloads\ZaLn_l2_test1 — копия (2)\ZaLn_l2_test1\obj\Debug\ZaLn_l2_test1.pdb
