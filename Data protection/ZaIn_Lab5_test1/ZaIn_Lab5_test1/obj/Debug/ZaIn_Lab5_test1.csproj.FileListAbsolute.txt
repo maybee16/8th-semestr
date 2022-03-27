@@ -1,0 +1,31 @@
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.exe.config
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.exe
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.pdb
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.Form1.resources
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.Properties.Resources.resources
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.exe
+C:\Users\User\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.pdb
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.exe.config
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.exe
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.pdb
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.AssemblyReference.cache
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.Form1.resources
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.Properties.Resources.resources
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.GenerateResource.cache
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.CoreCompileInputs.cache
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.exe
+C:\Users\Роман Лавров\Desktop\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.pdb
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.exe.config
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.exe
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\bin\Debug\ZaIn_Lab5_test1.pdb
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csprojAssemblyReference.cache
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.Form1.resources
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.Properties.Resources.resources
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.GenerateResource.cache
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.csproj.CoreCompileInputs.cache
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.exe
+H:\2022_Забелин\5Lab final\ZaIn_Lab5_test1\ZaIn_Lab5_test1\obj\Debug\ZaIn_Lab5_test1.pdb
